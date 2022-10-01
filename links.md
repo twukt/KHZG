@@ -6,6 +6,7 @@
 [Bundesamt für Soziale Sicherung KHZF](https://www.bundesamtsozialesicherung.de/de/themen/krankenhauszukunftsfonds-1/)
 
 [Förderrichtlinien - Krankenhausstrukturfonds-Verordnung - KHSFV §21 Absatz2 ](https://www.gesetze-im-internet.de/khsfv/__21.html)
+
 [BAS aktuellste Version Förderrichtlinie](https://www.bundesamtsozialesicherung.de/de/themen/foerdermittelrichtlinie/)
 
 
