@@ -39,6 +39,11 @@
   * bedarfsgerechter Datenaustausch - synchrone Schnittstelle?
   * wenn ich es richtig verstehe sind nach Abschnitt Motivation alle asynchronen Schnittstellen nicht dem §373 SGB V entsprechend??? *Um die oben skizzierten Nachteile zu vermeiden, wird in diesem Leitfaden ein bedarfsgerechter Datenaustausch im Krankenhaus spezifiziert.*
 
+[Implementierungsleitfaden Dokumentenaustausch Stufe 2](https://simplifier.net/guide/isik-dokumentenaustausch?version=current)
+* Begriffe / Unklarheiten / Fragen
+ * bei Motivation wird nur ein Use-Case für ein führendes Dokumentenhaltendes System mit angegliederten Subsystemen geschildert, andere Use-Cases wo z.B. das Subsystem bei der Dokumentenverwaltung führend ist kann ich nicht sehen, ebensowenig so etwas wie eine Konstellation KAS-Archivsystem
+ * Bei den Übergreifenden Festlegungen --> bestätigungsrelevante Systeme findet man nur *Wird aktuell diskutiert. Die Definition folgt.*
+
 [Bestätigungsverfahren](https://fachportal.gematik.de/hersteller-anbieter/bestaetigungsverfahren-isik)
 
 
