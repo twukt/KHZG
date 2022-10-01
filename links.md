@@ -25,6 +25,12 @@
 [§ 374a SGB V Integration offener und standardisierter Schnittstellen in Hilfsmitteln und Implantaten](https://www.sozialgesetzbuch-sgb.de/sgbv/374a.html)
 * nichtrelevant
 
+[§ 375 SGB V Verordnungsermächtigung](https://www.sozialgesetzbuch-sgb.de/sgbv/375.html)
+* KHSFV ??
+
+[§ 385 SGB V Interoperabilitätsverzeichnis](https://www.sozialgesetzbuch-sgb.de/sgbv/385.html)
+--> https://www.vesta-gematik.de/
+
 # ISIK / gematik
 
 [Bestätigungsverfahren](https://fachportal.gematik.de/hersteller-anbieter/bestaetigungsverfahren-isik)
