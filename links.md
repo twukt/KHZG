@@ -29,7 +29,7 @@
 * KHSFV ??
 
 [§ 385 SGB V Interoperabilitätsverzeichnis](https://www.sozialgesetzbuch-sgb.de/sgbv/385.html)
-*--> https://www.vesta-gematik.de/
+* --> https://www.vesta-gematik.de/
 
 # ISIK / gematik
 
