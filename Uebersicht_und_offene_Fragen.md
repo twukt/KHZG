@@ -46,5 +46,6 @@
  * Bei den Übergreifenden Festlegungen --> bestätigungsrelevante Systeme findet man nur *Wird aktuell diskutiert. Die Definition folgt.*
 
 [Bestätigungsverfahren](https://fachportal.gematik.de/hersteller-anbieter/bestaetigungsverfahren-isik)
+* wenn ich es richtig verstehe heißt *isik bestätigt* nur, dass ich als System *isik* sprechen kann - das trifft aber keinerlei Aussage ob ich in meinem Betrieb dann auch eine andere Sprache mit einem anderen System sprechen darf
 
 
