@@ -38,6 +38,7 @@
   * reaktiver Datenaustausch - asynchrone Schnittstelle?
   * bedarfsgerechter Datenaustausch - synchrone Schnittstelle?
   * wenn ich es richtig verstehe sind nach Abschnitt Motivation alle asynchronen Schnittstellen nicht dem §373 SGB V entsprechend??? *Um die oben skizzierten Nachteile zu vermeiden, wird in diesem Leitfaden ein bedarfsgerechter Datenaustausch im Krankenhaus spezifiziert.*
+  *  Bei den Übergreifenden Festlegungen --> bestätigungsrelevante Systeme findet man nur *Hinweise und Rückfragen zu den bestätigungsrelevante Systemen können an die DKG-Geschäftsstelle gerichtet werden.*
 
 [Implementierungsleitfaden Dokumentenaustausch Stufe 2](https://simplifier.net/guide/isik-dokumentenaustausch?version=current)
 * Begriffe / Unklarheiten / Fragen
