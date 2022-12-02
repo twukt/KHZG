@@ -48,4 +48,8 @@
 [Bestätigungsverfahren](https://fachportal.gematik.de/hersteller-anbieter/bestaetigungsverfahren-isik)
 * wenn ich es richtig verstehe heißt *isik bestätigt* nur, dass ich als System *isik* sprechen kann - das trifft aber keinerlei Aussage ob ich in meinem Betrieb dann auch eine andere Sprache mit einem anderen System sprechen darf
 
+## Mitschrieb  2.12.22
 
+- bestätigungsrelevant legt DKG fest
+- Diskussion ob Gmeatik TÜV was heißt Bteriebserlaubnis erlischt? Diskussion versandet etwas endet unklar es igbt keine Sanktionen ist aber verboten??
+- 
